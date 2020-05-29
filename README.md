@@ -1,6 +1,6 @@
 # Cotizador de seguros
 
-this small app allow the auto insurance quote.
+This small app allows the car insurance quote.
 
 **Demo:** https://jleon253.github.io/cotizador-seguros/
 
