@@ -1,3 +1,14 @@
+# Cotizador de seguros
+
+this small app allow the auto insurance quote.
+
+**Demo:** https://jleon253.github.io/cotizador-seguros/
+
+### Dev tools used:
+
+> - HTML, CSS, Normalize.css, Animate.css, SpinKit
+> - ES9, React.js (Hooks), Styled Components (Emotion Styled) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
